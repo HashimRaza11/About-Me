@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and GraphQL.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
+🔭 **I’m currently working on:**  <br>I'm currently working on a range of exciting projects, including:
+
+MERN Stack Projects: Developing full-stack applications with a focus on scalability and performance, utilizing the MERN stack (MongoDB, Express.js, React.js, Node.js).
+
+Machine Learning & AI: Exploring advanced machine learning models and integrating AI into real-world applications using Python frameworks like TensorFlow and Scikit-learn..<br><br>👯 **I’m looking to collaborate on:**  <br>Full Stack Projects<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services & GraphQL or Next.js.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
 
 
 ## 🌐 Socials:
